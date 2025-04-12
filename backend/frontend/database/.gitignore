@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Node
+node_modules/
+
+# Banco
+*.sqlite3
+*.db
+
+# Sistema
+.DS_Store
+*.log
